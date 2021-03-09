@@ -1,0 +1,16 @@
+---
+namespace: {{ domain }}
+name: {{ subdomain }}
+version: 0.0.1
+readme: README.md
+authors:
+  - Navdeep Sidhu <dev@navisidhu.com>
+description: {{ description }}
+license:
+  - MIT
+tags: []
+dependencies: {}
+repository: http://github.com/{{ github_repo }}
+documentation: http://github.com/{{ github_repo }}/wiki
+homepage: http://github.com/{{ github_repo }}
+issues: http://github.com/{{ github_repo }}/issues
